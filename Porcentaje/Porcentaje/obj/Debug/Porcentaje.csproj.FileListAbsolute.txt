@@ -1,0 +1,7 @@
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\obj\Debug\Porcentaje.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\obj\Debug\Porcentaje.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\bin\Debug\Porcentaje.exe.config
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\bin\Debug\Porcentaje.exe
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\bin\Debug\Porcentaje.pdb
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\obj\Debug\Porcentaje.exe
+C:\Users\prisc\source\repos\Porcentaje\Porcentaje\obj\Debug\Porcentaje.pdb
